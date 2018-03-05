@@ -94,3 +94,7 @@ function each(arr, fn) {
         fn(arr[i], i);
     }
 }
+
+
+
+
